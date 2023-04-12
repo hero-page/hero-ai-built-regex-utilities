@@ -1,0 +1,23 @@
+{
+  "name": "@hero-page/hero-ai-built-regex-utilities",
+  "version": "1.0.0",
+  "description": "A set of functions for working with regular expressions, such as finding and replacing text patterns and validating user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {},
+  "keywords": [
+    "regular expressions",
+    "regex",
+    "find",
+    "replace",
+    "validate",
+    "extract",
+    "match count",
+    "split"
+  ],
+  "author": "Sam Chahine",
+  "license": "MIT",
+  "dependencies": {}
+}
